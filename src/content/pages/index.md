@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Schole.id
+tagline: Indonesian Scholastic Philoshopy
+featuredImage: /assets/logo.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+This website is under construction. Please visit our <a href="https://twitter.com/schole_id?s=20" target="_blank" rel="noopener noreferrer">twitter</a> or <a href="https://instagram.com/schole_id?igshid=15lwwh41so2sp" target="_blank" rel="noopener noreferrer">instagram</a> for live update.

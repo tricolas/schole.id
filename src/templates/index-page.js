@@ -6,6 +6,7 @@ import { RiArrowRightSLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
+import maintenance from "../../static/assets/maintenance.jpg"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -41,6 +42,7 @@ const HomePage = ({ data }) => {
 	return (
 		<Layout>
       <SEO/>
+      <img src={maintenance} style={{ margin: '30px auto', display: 'block', width: '100%' }} />
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 class="title">{frontmatter.title}</h1>
